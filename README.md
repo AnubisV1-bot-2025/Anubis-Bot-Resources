@@ -9,7 +9,7 @@ Official download locations (bookmark these):
 ✅ Virus scanned
 
 Subscribe today:
-[Anubis Subscription Bot](t.me/Anubis_Subscription_Bot)
+[Anubis Subscription Bot](https://t.me/Anubis_Subscription_Bot)
 
 Questions? Ask in the channel first.
 DM @WizardofBozz
