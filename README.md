@@ -2,7 +2,7 @@
 
 Official download locations (bookmark these):
 
-📖 Documentation: https://github.com/Anubis-Bot-Resources/
+📖 Documentation: https://github.com/AnubisV1-bot-2025/Anubis-Bot-Resources
 
 ⚠️ Only download from these official sources
 🔒 All files HTTPS encrypted
