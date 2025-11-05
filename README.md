@@ -8,5 +8,8 @@ Official download locations (bookmark these):
 🔒 All files HTTPS encrypted
 ✅ Virus scanned
 
+Subscribe today:
+t.me/Anubis_Subscription_Bot
+
 Questions? Ask in the channel first.
 DM @WizardofBozz
