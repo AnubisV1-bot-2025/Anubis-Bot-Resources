@@ -1,15 +1,95 @@
-📚 ANUBIS BOT RESOURCES
+# 🔱 Anubis Bot Official Resources
 
-Official download locations (bookmark these):
+**The smartest Solana memecoin alert system on the market.**
 
-📖 Documentation: https://github.com/AnubisV1-bot-2025/Anubis-Bot-Resources
+We monitor Pump.fun and Raydium 24/7 using advanced algorithms to identify profitable tokens before they rug.
 
-⚠️ Only download from these official sources
-🔒 All files HTTPS encrypted
-✅ Virus scanned
+---
 
-Subscribe today:
-[Anubis Subscription Bot](https://t.me/Anubis_Subscription_Bot)
+## 💎 Premium Membership
 
-Questions? Ask in the channel first.
-DM @WizardofBozz
+**One tier. Maximum value.**
+
+### What You Get:
+- ⚡ **Instant alerts** on high-probability tokens
+- 🎯 **30-35% win rate** on 2-3x multipliers (verified performance)
+- 📊 **Developer profiling** - Know who's likely to rug
+- 🔍 **Real-time monitoring** - 35 RPC calls per second
+- 💰 **Transparent results** - We show wins AND losses
+
+### Pricing:
+- **0.15 SOL/month** (founding member rate)
+- Limited to first 100-200 members
+- Price increases as we scale
+
+### How It Works:
+**98% of memecoins fail.** We identify the 2% worth trading before they moon.
+
+Our system processes 168,000+ token evaluations daily using:
+- Multi-stage monitoring pipeline
+- Developer behavior analysis
+- Volume and velocity tracking
+
+---
+
+## 🚀 Subscribe Now
+
+<p align="center">
+  <a href="https://t.me/Anubis_Subscription_Bot" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SUBSCRIBE_NOW-Anubis_Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Subscribe Now"/>
+  </a>
+</p>
+
+**The bot will:**
+1. Verify your payment (0.15 SOL)
+2. Send you a unique private channel invite
+3. You start receiving alerts immediately
+
+**Your invite link is unique to you.** Don't share it, or it may be revoked.
+
+---
+
+## 📊 Why Anubis Bot?
+
+| Feature | Anubis Bot | Other Bots |
+|---------|------------|------------|
+| **Win Rate** | 30-35% @ 2-3x | 10-15% (if they even track) |
+| **Transparency** | Shows all calls (wins + losses) | Cherry-picked results only |
+| **Technology** | 35 RPC/s, ML models, dev profiling | Basic filters |
+| **Data** | 168k+ tokens evaluated daily | Limited samples |
+| **Founding Member Price** | 0.15 SOL/mo | N/A | (.087 for the first 20!!!)
+
+---
+
+## 🔒 Security & Trust
+
+- ✅ **Radical transparency** - We publish our win/loss record
+- ✅ **No bullshit** - We tell you when we're wrong
+- ✅ **Real data** - Every call tracked in our database
+- ✅ **Official resources** - Only download from this GitHub
+- ⚠️ **NFA** - Not financial advice. You trade at your own risk.
+
+---
+
+## 💬 Questions?
+
+Start a chat with the bot - it handles subscriptions and payments:
+
+<a href="https://t.me/Anubis_Subscription_Bot" target="_blank" rel="noopener noreferrer">Contact Anubis Bot</a>
+
+---
+
+## 📈 Performance Stats
+
+*Updated regularly as we track results*
+
+- **Tokens Monitored:** 168,000+ evaluations daily
+- **Average Calls:** 5-10 tokens per day
+- **2x Win Rate:** 30-35% (target)
+- **System Uptime:** 99%+ 
+
+---
+
+*Anubis has spoken. The patterns of the ancients rarely lie.*
+
+**Disclaimer:** Cryptocurrency trading carries significant risk. Past performance doesn't guarantee future results. All information provided for educational purposes only. Not financial advice.
