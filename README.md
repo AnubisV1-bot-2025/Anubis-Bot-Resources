@@ -71,11 +71,12 @@ Our system processes 168,000+ token evaluations daily using:
 
 ---
 
-## 💬 Questions?
+## 💬 Contact the Anubis Oracle
+**Two paths lead to the guardian:**
+- 🔱 **Telegram:** <a href="https://t.me/Anubis_Subscription_Bot" target="_blank" rel="noopener noreferrer">@Anubis_Subscription_Bot</a> (Instant responses)
+- 📜 **Email:** <a href="mailto:anubistgbot@praxisprotocol.io?subject=Anubis%20Bot%20Inquiry" target="_blank" rel="noopener noreferrer">anubistgbot@praxisprotocol.io</a> (24hr response)
 
-Start a chat with the bot - it handles subscriptions and payments:
-
-<a href="https://t.me/Anubis_Subscription_Bot" target="_blank" rel="noopener noreferrer">Contact Anubis Bot</a>
+*Anubis judges all queries with wisdom and precision.*
 
 ---
 
